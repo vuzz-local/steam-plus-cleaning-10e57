@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vuzz-local.github.io/steam-plus-cleaning-10e57/sitemap.xml
+Sitemap: https://steam-plus-cleaning-10e57.pages.dev/sitemap.xml
